@@ -7,7 +7,7 @@ def directoryPath="mini-project/service"
 def githubEmail="dhzlwkzl@naver.com"
 def githubKey="github-key"
 def githubSSHURL="git@github.com:jamiekim85/studyKubernetes.git"
-def imageTag="red"
+def imageTag="blue"
 
 podTemplate(yaml: '''
               apiVersion: v1
